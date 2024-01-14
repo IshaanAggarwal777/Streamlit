@@ -1,0 +1,4 @@
+1) Required txt contains the library used
+2) Swiggy Dashboard Analysis.ipynb contains the analysis-!streamlit run test.py (Run this on Jupyter in order ro see the dashbaord
+3) Swiggy.csv contains the dataset ( Upload on github before running)
+4) test.py (test.py contains the code for the dashboard
